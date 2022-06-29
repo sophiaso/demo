@@ -1,0 +1,7 @@
+accelerator:
+  displayName: Simple Accelerator
+  description: Contains just a README
+  iconUrl: https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/512x512/tree.png
+  tags:
+  - simple
+  - getting-started
