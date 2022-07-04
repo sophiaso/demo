@@ -5,3 +5,9 @@ accelerator:
   tags:
   - simple
   - getting-started
+  
+  options:
+
+  - name: xyz
+    display: true
+    defaultValue: Text value
